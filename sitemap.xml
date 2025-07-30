@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.monsterfactory.dev/</loc>
+    <loc>http://monsterfactory.dev/</loc>
     <lastmod>2025-07-30T00:04:23-04:00</lastmod>
   </url><url>
-    <loc>http://www.monsterfactory.dev/posts/</loc>
+    <loc>http://monsterfactory.dev/posts/</loc>
     <lastmod>2025-07-29T23:54:25-04:00</lastmod>
   </url><url>
-    <loc>http://www.monsterfactory.dev/posts/my-first-post/</loc>
+    <loc>http://monsterfactory.dev/posts/my-first-post/</loc>
     <lastmod>2025-07-29T23:54:25-04:00</lastmod>
   </url><url>
-    <loc>http://www.monsterfactory.dev/categories/</loc>
+    <loc>http://monsterfactory.dev/categories/</loc>
   </url><url>
-    <loc>http://www.monsterfactory.dev/tags/</loc>
+    <loc>http://monsterfactory.dev/tags/</loc>
   </url>
 </urlset>
